@@ -11,4 +11,6 @@ def product_of_other_integers(array_of_integers)
   new_array_of_integers
 end
 
-p product_of_other_integers([1,2,3,4])
+
+
+p product_of_other_integers([1,2,3,4,0])
